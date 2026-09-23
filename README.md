@@ -8,13 +8,13 @@ The application takes patient health information as input and predicts the proba
 
 ## 🚀 Live Demo
 
-🔗 **Demo:** [ADD YOUR STREAMLIT DEMO LINK HERE]
+🔗 **Demo:** (https://ritesh-diabetes.streamlit.app/)
 
 ---
 
 ## 📂 GitHub Repository
 
-🔗 **Project Repository:** [ADD YOUR GITHUB REPOSITORY LINK HERE]
+🔗 **Project Repository:** (https://github.com/ritesh975/Diabetes-Prediction-using-ANN)
 
 ---
 
@@ -323,9 +323,9 @@ MCA Student | Aspiring Data Analyst | Machine Learning Enthusiast
 
 ## 🔗 Links
 
-🌐 **Live Demo:** [ADD DEMO LINK]
+🌐 **Live Demo:**(https://ritesh-diabetes.streamlit.app/)
 
-💻 **GitHub Repository:** [ADD GITHUB REPOSITORY LINK]
+💻 **GitHub Repository:**(https://github.com/ritesh975/Diabetes-Prediction-using-ANN)
 
 📊 **Project:** Diabetes Prediction using ANN
 
