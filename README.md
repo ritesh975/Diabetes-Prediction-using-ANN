@@ -8,7 +8,7 @@ The application takes patient health information as input and predicts the proba
 
 ## 🚀 Live Demo
 
-🔗 **Demo:**https://ritesh-diabetes.streamlit.app
+🔗 **Demo:** (https://ritesh-diabetes.streamlit.app)
 
 ---
 
